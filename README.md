@@ -1,7 +1,5 @@
 ### Hi, I'm Raja Beemi 👋
 
-**beemi/beemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 I'm a software engineer who is passinate about build and test software.
 
 Here are some ideas to get you started:
