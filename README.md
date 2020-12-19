@@ -5,12 +5,8 @@ I'm a software engineer who is passionate about build and test software.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Global Radio streaming server
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning terraform
+- 💬 Ask me about Microservices development, Ansible deployments, Terraform infra creation, QA
 
 #### 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rajbeemi/)
@@ -20,6 +16,7 @@ Here are some ideas to get you started:
   
   **Back-end**
   
+  <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/java.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/nodejs.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/go.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/elixir.png"></code>
