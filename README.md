@@ -4,8 +4,7 @@ I'm a software engineer who is passionate about build and test software.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Global Radio streaming server
-- 🌱 I’m currently learning terraform
+- 🔭 I’m currently writing JAVA, Javascript and K8
 - 💬 Ask me about Microservices development, Ansible deployments, Terraform infra creation, QA
 
 #### 📫 How to reach me:   
