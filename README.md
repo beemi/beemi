@@ -2,10 +2,15 @@
 
 I'm a software engineer who is passionate about build and test software.
 
-Here are some ideas to get you started:
+### What i do:
 
-- 🔭 I’m currently writing JAVA, Javascript and K8
-- 💬 Ask me about Microservices development, Ansible deployments, Terraform infra creation, QA
+* Deploy Java Spring boot applications to AWS EKS clusters using Flux
+* Deploy Java Spring boot applications using Ansible.
+* Build, change, and destroy AWS infrastructure using Terraform, Terraform cloud
+* Build Docker Images for Java, Node JS and Go Lang application, push to ECR or GCP container registry
+* Build Helm charts
+* Deploy & maintain distributed performance test frameworks using Kubernetes
+
 
 #### 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rajbeemi/)
