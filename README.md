@@ -12,6 +12,7 @@ I'm a software engineer who is passionate about build and test software.
 * Deploy & maintain distributed performance test frameworks using Kubernetes
 * Release React Native & Native mobile apps using Bitrise, CI/CD setup
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
+* Running non functional stress tests across 50 k9 pods
 
 
 #### 📫 How to reach me:   
