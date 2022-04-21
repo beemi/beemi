@@ -6,6 +6,7 @@ I'm a software engineer who is passionate about build and test software.
 
 * Deploy Java Spring boot applications to AWS EKS clusters using Flux
 * Deploy Java Spring boot applications using Ansible.
+* Build Node JS microservices using express.js framework and K8 deployments
 * Build, change, and destroy AWS infrastructure using Terraform, Terraform cloud
 * Build Docker Images for Java, Node JS and Go Lang application, push to ECR or GCP container registry
 * Build Helm charts
