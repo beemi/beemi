@@ -15,6 +15,7 @@ I'm a software engineer who is passionate about build and test software.
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
 * Running non functional stress tests across 50 k9 pods
 * Experience of creating automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
+* Dependency management with Maven, Gradle, NPM, Nexus and Artifactory
 
 
 #### 📫 How to reach me:   
