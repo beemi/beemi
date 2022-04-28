@@ -1,22 +1,39 @@
 ### Hi, I'm Raja Beemi 👋
 
-I'm a software engineer who is passionate about build and test software.
+I'm a software engineer who is passionate about build, deploy and test software.
 
 ### What i do:
 
+#### DevOps
+
 * Deploy Java Spring boot applications to AWS EKS clusters using Flux
 * Deploy Java Spring boot applications using Ansible.
-* Build Node JS microservices using express.js framework and K8 deployments
+* Deploy Nods JS microservices to K8 clusters using Terraform cloud.
 * Build, change, and destroy AWS infrastructure using Terraform, Terraform cloud
 * Build Docker Images for Java, Node JS and Go Lang application, push to ECR or GCP container registry
 * Build Helm charts
 * Deploy & maintain distributed performance test frameworks using Kubernetes
 * Release React Native & Native mobile apps using Bitrise, CI/CD setup
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
-* Running non functional stress tests across 50 k9 pods
-* Experience of creating automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
 * Dependency management with Maven, Gradle, NPM, Nexus and Artifactory
 
+#### Development
+
+* Build Node JS microservices using express.js frameworks
+
+#### Software testing
+
+#### Functional
+
+* Experience of creating automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
+
+#### Non Functional
+
+* Well Architected & running [Gatling](https://gatling.io/) load & stress tests in [kubernetes](https://kubernetes.io/) cluster.
+
+#### Security
+
+* Vulnerabllities & cyber attacks
 
 #### 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rajbeemi/)
