@@ -16,6 +16,7 @@ I'm a software engineer who is passionate about build, deploy and test software.
 * Release React Native & Native mobile apps using Bitrise, CI/CD setup
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
 * Dependency management with Maven, Gradle, NPM, Nexus and Artifactory
+* Solid experience using [Kubernetes](https://kubernetes.io/), [DataDog](https://www.datadoghq.com/)
 
 #### Development
 
@@ -26,6 +27,13 @@ I'm a software engineer who is passionate about build, deploy and test software.
 #### Functional
 
 * Experience of creating automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
+
+* Solid experience using [Cypress](https://www.cypress.io/), [Puppeteer](https://developers.google.com/web/tools/puppeteer), [Playwright](https://playwright.dev/)
+
+* Solid experience in micro service event based system tests using [Mockito](https://site.mockito.org/), [REST Assured](https://rest-assured.io/), [Karate](https://github.com/karatelabs/karate)
+
+* Solid experience using [Jest](https://jestjs.io/) framework writing Unit & Integration tests
+
 
 #### Non Functional
 
