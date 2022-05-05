@@ -21,6 +21,7 @@ I'm a software engineer who is passionate about build, deploy and test software.
 #### Development
 
 * Build Node JS microservices using express.js frameworks
+* Solid experience using (Amplitude)[https://amplitude.com/] and (Mixpanel)[https://mixpanel.com/]
 
 #### Software testing
 
