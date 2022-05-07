@@ -12,6 +12,7 @@ I'm a software engineer who is passionate about build, deploy and test software.
 * Build, change, and destroy AWS infrastructure using Terraform, Terraform cloud
 * Build Docker Images for Java, Node JS and Go Lang application, push to ECR or GCP container registry
 * Build Helm charts
+* Automating CI/CD pipelines & Docker
 * Deploy & maintain distributed performance test frameworks using Kubernetes
 * Release React Native & Native mobile apps using Bitrise, CI/CD setup
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
