@@ -17,11 +17,13 @@ I'm a software engineer who is passionate about build, deploy and test software.
 * Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
 * Dependency management with Maven, Gradle, NPM, Nexus and Artifactory
 * Solid experience using [Kubernetes](https://kubernetes.io/), [DataDog](https://www.datadoghq.com/)
+* Monitors servers, applications and clusters for failures, system crashes and resource usage, etc using tools like Prometheus, Grafana or Elastic Stack (Elastic Search, Logstash and Kibana).
 
 #### Development
 
 * Build Node JS microservices using express.js frameworks
 * Solid experience using [Amplitude](https://amplitude.com/) and [Mixpanel](https://mixpanel.com/)
+* Dependency management with [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/), NPM, Nexus and [Jfrog](https://jfrog.com/) Artifactory.
 
 #### Software testing
 
