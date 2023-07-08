@@ -6,7 +6,7 @@ I'm a software engineer fueled by a passion for building, deploying, and testing
 
 #### 💻 DevOps
 
-- Expert in deploying Java Spring Boot applications to AWS EKS clusters using Flux, and with Ansible
+- Proficient in deploying Java Spring Boot applications to AWS EKS clusters using Flux, utilizing Helm for managing releases
 - Proficient in deploying Node.js microservices to Kubernetes clusters with Terraform Cloud
 - Skilled in managing AWS infrastructure with Terraform, and Docker images for various applications, pushing them to ECR or GCP container registry
 - Experienced in automating CI/CD pipelines, creating Helm charts, and handling distributed performance testing using Kubernetes
@@ -16,22 +16,29 @@ I'm a software engineer fueled by a passion for building, deploying, and testing
 #### 💡 Development
 
 - Capable of building Node.js microservices using Express.js
+- Expert in developing Spring Boot REST API microservices, incorporating services such as RDS, Kafka, SNS, and SQS to ensure efficient and reliable data handling
+- Experienced in crafting performant GoLang microservices, utilizing its simplicity and efficiency in creating scalable, concurrent programs
 - Well-versed in dependency management tools like Maven, Gradle, NPM, Nexus, and JFrog Artifactory
 - Extensive experience using analytical tools like Amplitude and Mixpanel
 
 #### 🎯 Software Testing
 
-- Experienced in creating automation frameworks and tests using JavaScript/Node.js stack tools like Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, and Jasmine
-- Adept at performing microservice event-based system tests using Mockito, REST Assured, and Karate
-- Proficient in Unit & Integration testing using the Jest framework
+##### Functional
 
-#### 🏋️‍♂️ Non-Functional Testing
+- Experience in crafting automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
+- Solid know-how in conducting micro service event-based system tests using Mockito, REST Assured, and Karate
+- Proficient in writing Unit & Integration tests using Jest framework
 
-- Proficient in designing and running Gatling load & stress tests in Kubernetes clusters
+##### Non-Functional
 
-#### 🔒 Security
+- Expert in designing and executing load & stress tests using Gatling and K6 in Kubernetes clusters
+- Proficient in monitoring performance metrics with Prometheus and visualizing data using Grafana
 
-- Capable of identifying vulnerabilities and mitigating cyber attacks
+##### Security
+
+- Skilled in identifying vulnerabilities and mitigating potential cyber attacks
+
+By integrating the K6 testing tool with Prometheus for collecting metrics and Grafana for data visualization, I provide comprehensive non-functional testing services, ensuring the optimal performance of your applications even under heavy load conditions. My approach allows for effective monitoring, reporting, and continuous improvement, key aspects in maintaining robust and reliable software systems.
 
 ### 📫 How to reach me: 
 
