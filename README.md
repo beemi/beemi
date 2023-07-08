@@ -1,88 +1,77 @@
-### Hi, I'm Raja Beemi 👋
+### Hello, I'm Raja Beemi 👋
 
-I'm a software engineer who is passionate about build, deploy and test software.
+I'm a software engineer fueled by a passion for building, deploying, and testing software that delivers exceptional user experiences. My comprehensive skills across the tech stack make me versatile and adaptable in an ever-changing tech landscape.
 
-### What i do:
+### 🚀 What I do:
 
-#### DevOps
+#### 💻 DevOps
 
-* Deploy Java Spring boot applications to AWS EKS clusters using Flux
-* Deploy Java Spring boot applications using Ansible.
-* Deploy Nods JS microservices to K8 clusters using Terraform cloud.
-* Build, change, and destroy AWS infrastructure using Terraform, Terraform cloud
-* Build Docker Images for Java, Node JS and Go Lang application, push to ECR or GCP container registry
-* Build Helm charts
-* Automating CI/CD pipelines & Docker
-* Deploy & maintain distributed performance test frameworks using Kubernetes
-* Release React Native & Native mobile apps using Bitrise, CI/CD setup
-* Setup React JS & Anjuler JS appication deployments using Github actions & Firebase
-* Dependency management with Maven, Gradle, NPM, Nexus and Artifactory
-* Solid experience using [Kubernetes](https://kubernetes.io/), [DataDog](https://www.datadoghq.com/)
-* Monitors servers, applications and clusters for failures, system crashes and resource usage, etc using tools like Prometheus, Grafana or Elastic Stack (Elastic Search, Logstash and Kibana).
+- Expert in deploying Java Spring Boot applications to AWS EKS clusters using Flux, and with Ansible
+- Proficient in deploying Node.js microservices to Kubernetes clusters with Terraform Cloud
+- Skilled in managing AWS infrastructure with Terraform, and Docker images for various applications, pushing them to ECR or GCP container registry
+- Experienced in automating CI/CD pipelines, creating Helm charts, and handling distributed performance testing using Kubernetes
+- Efficient in setting up deployment for various apps using Github actions & Firebase and managing dependencies with Maven, Gradle, NPM, Nexus, and Artifactory
+- Proficient in monitoring servers and clusters for potential failures, system crashes, and resource usage with tools like Prometheus, Grafana, and the Elastic Stack
 
-#### Development
+#### 💡 Development
 
-* Build Node JS microservices using express.js frameworks
-* Solid experience using [Amplitude](https://amplitude.com/) and [Mixpanel](https://mixpanel.com/)
-* Dependency management with [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/), NPM, Nexus and [Jfrog](https://jfrog.com/) Artifactory.
+- Capable of building Node.js microservices using Express.js
+- Well-versed in dependency management tools like Maven, Gradle, NPM, Nexus, and JFrog Artifactory
+- Extensive experience using analytical tools like Amplitude and Mixpanel
 
-#### Software testing
+#### 🎯 Software Testing
 
-#### Functional
+- Experienced in creating automation frameworks and tests using JavaScript/Node.js stack tools like Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, and Jasmine
+- Adept at performing microservice event-based system tests using Mockito, REST Assured, and Karate
+- Proficient in Unit & Integration testing using the Jest framework
 
-* Experience of creating automation frameworks and tests using testing tools on the JavaScript / Node.js stack (e.g. Cypress, Jest/Enzyme, Cucumber, Selenium, Chai, Mocha, Protractor, Jasmine etc)
+#### 🏋️‍♂️ Non-Functional Testing
 
-* Solid experience using [Cypress](https://www.cypress.io/), [Puppeteer](https://developers.google.com/web/tools/puppeteer), [Playwright](https://playwright.dev/)
+- Proficient in designing and running Gatling load & stress tests in Kubernetes clusters
 
-* Solid experience in micro service event based system tests using [Mockito](https://site.mockito.org/), [REST Assured](https://rest-assured.io/), [Karate](https://github.com/karatelabs/karate)
+#### 🔒 Security
 
-* Solid experience using [Jest](https://jestjs.io/) framework writing Unit & Integration tests
+- Capable of identifying vulnerabilities and mitigating cyber attacks
 
+### 📫 How to reach me: 
 
-#### Non Functional
-
-* Well Architected & running [Gatling](https://gatling.io/) load & stress tests in [kubernetes](https://kubernetes.io/) cluster.
-
-#### Security
-
-* Vulnerabllities & cyber attacks
-
-#### 📫 How to reach me:   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rajbeemi/)
   <a href="mailto:beemi.raja@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   
-#### 👨🏻‍💻 Languages and Tools <br />
-  
-  **Back-end**
+### 👨🏻‍💻 Languages and Tools <br />
+
+Here's a quick overview of the various languages and tools I am proficient in, across the development spectrum.
+
+**Back-end**
   
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/java.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/nodejs.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/go.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/elixir.png"></code>
   
-  **Front-end**
+**Front-end**
   
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/css3.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/js.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/reactjs.png"></code>
   
-  **Databases**
+**Databases**
   
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/postgresql.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/mysql.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/redis.png"></code>
   
-  **Cloud Servers**
+**Cloud Servers**
   
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/aws.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/gcloud.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/DigitalOcean.png"></code>
   
-  **Tools**
+**Tools**
   
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/docker.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/atom.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/beemi/beemi/master/images/vim.png"></code>
-  
-![Raj Beemi github stats](https://github-readme-stats.vercel.app/api?username=beemi&show_icons=true&theme=radical)
+
+![Raj Beemi's Github Stats](https://github-readme-stats.vercel.app/api?username=beemi&show_icons=true&theme=radical)
